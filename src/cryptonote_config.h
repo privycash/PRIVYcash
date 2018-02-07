@@ -112,7 +112,7 @@ const boost::uuids::uuid NETWORK_ID                          = { { 0x4E, 0x6F, 0
 const unsigned THREAD_STACK_SIZE                             = 5 * 1024 * 1024;
 
 const char* const SEED_NODES[] = {
-  "seed.ducknote.org:42080"
+  "seed.privycash.tk:23006"
 };
 
 struct CheckpointData {
